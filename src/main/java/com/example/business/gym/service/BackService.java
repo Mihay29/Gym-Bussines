@@ -1,7 +1,6 @@
 package com.example.business.gym.service;
 
 import com.example.business.gym.entity.Back;
-import com.example.business.gym.entity.Client;
 
 import java.util.Optional;
 

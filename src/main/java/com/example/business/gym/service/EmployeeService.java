@@ -1,6 +1,5 @@
 package com.example.business.gym.service;
 
-import com.example.business.gym.entity.Client;
 import com.example.business.gym.entity.Employee;
 
 import java.util.Optional;

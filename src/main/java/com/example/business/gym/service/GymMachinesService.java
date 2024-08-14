@@ -1,6 +1,5 @@
 package com.example.business.gym.service;
 
-import com.example.business.gym.entity.Client;
 import com.example.business.gym.entity.GymMachines;
 
 import java.util.Optional;
